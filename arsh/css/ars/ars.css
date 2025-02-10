@@ -1,0 +1,13 @@
+h1{
+    background-color: green;
+}
+#eid{
+    background-color: aqua;
+}
+.rajni{
+    background-color: bisque;
+}
+*{
+    font-size: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
