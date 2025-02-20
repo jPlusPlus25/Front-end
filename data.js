@@ -1,7 +1,4 @@
-function detail(){
-    //console.log("Test case 123");
-   // let btnRef = document.getElementById('abc')
-    //console.log(btnRef)
-    let btnRef = document.getElementById('unit 1');
-    console.log(btnRef)
+function displaydata(){
+    let p_tag_ref=document.getElementsByTagName("p")[0];
+    console.log(p_tag_ref)
 }
